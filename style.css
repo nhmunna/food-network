@@ -55,3 +55,49 @@ body{
     padding-left: 200px;
     padding-right: 200px;
 }
+.features-item{
+    width: 80%;
+    padding-left: 20px;
+    padding-right: 20px;
+    /*border: 5px solid transparent;*/
+    margin: 35px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 40px gray;
+}
+.features-item h3{
+    font-size: 30px;
+    font-weight: 700;
+}
+.features-item p{
+    text-align: justify;
+    font-weight: 200;
+    font-size: 15px;
+}
+.features-item img{
+    width: 100%;
+    border-radius: 30px;
+    padding: 10px 0px 5px 0px;
+}
+.features-item-social{
+    display: flex;
+    margin: 35px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 40px gray;
+}
+.features-social-padding{
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 50px;
+}
+.features-social-padding h1{
+    font-size: 50px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.features-social-padding p{
+    font-size: 10px;
+    font-weight: 100;
+    padding-top: 0px;
+    margin-top: 0px;
+    font-style: initial;
+}
