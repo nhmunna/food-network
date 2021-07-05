@@ -1,0 +1,57 @@
+body{
+    font-family: 'Nunito', sans-serif;
+    margin: 0;
+}
+.fexiable-container{
+    display: flex;
+    padding-bottom: 120px;
+}
+.top-banner{
+    background-image: url(images/top-banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#colored{
+    color: #ec2fb2;
+}
+.bigger-font{
+    font-size: 50px;
+}
+.half-width{
+    width: 50%;
+    margin-left: 35px;
+    margin-top: 35px;
+}
+.half-width img{
+    width: 100%;
+}
+.text-align{
+    text-align: justify;
+    padding-bottom: 30px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(#ec2fb2, #e23a32);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 35px;
+    box-shadow: 5px 5px 40px #ec2fb2;
+}
+.bottom-banner{
+    background-image: url(images/bottom-banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+.padding{
+    padding-right: 50px;
+    padding-left: 50px;
+}
+#margin-link{
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.center-align{
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+}
