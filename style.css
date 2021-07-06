@@ -59,7 +59,6 @@ body{
     width: 80%;
     padding-left: 20px;
     padding-right: 20px;
-    /*border: 5px solid transparent;*/
     margin: 35px;
     border-radius: 30px;
     box-shadow: 5px 5px 40px gray;
@@ -85,8 +84,8 @@ body{
     box-shadow: 5px 5px 40px gray;
 }
 .features-social-padding{
-    padding-left: 150px;
-    padding-right: 150px;
+    padding-left: 180px;
+    padding-right: 190px;
     padding-bottom: 50px;
 }
 .features-social-padding h1{
@@ -100,4 +99,46 @@ body{
     padding-top: 0px;
     margin-top: 0px;
     font-style: initial;
+}
+.review-section{
+    margin: 35px;
+    padding-top: 120px;
+}
+.review{
+    width: 80%;
+    margin: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 40px gray;
+}
+.review p{
+    text-align: justify;
+    font-style: initial;
+    font-size: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: gray;
+}
+.review h1{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+footer{
+    background-color: black;
+}
+.footer-center{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#footer-color-first{
+    color: #ec2fb2;   
+}
+#footer-color-second{
+    color: gray;
+}
+#padding-bottom{
+    padding-bottom: 120px;
 }
