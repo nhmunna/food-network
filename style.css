@@ -84,8 +84,8 @@ body{
     box-shadow: 5px 5px 40px gray;
 }
 .features-social-padding{
-    padding-left: 180px;
-    padding-right: 190px;
+    padding-left: 220px;
+    /*padding-right: 190px;*/
     padding-bottom: 50px;
 }
 .features-social-padding h1{
